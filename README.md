@@ -24,7 +24,7 @@ AI/ML leader with 10+ years of experience across startups, scale-ups, and academ
 
 ## Professional Experience
 
-### **Trint — Lead Data Scientist / AI Team Manager**  
+### **Trint — Lead Data Scientist - AI Team Manager**  
 *London, UK | May 2022 – Present*  
 AI-powered transcription and content platform (VC-backed scale-up)
 
@@ -45,7 +45,7 @@ AI-powered transcription and content platform (VC-backed scale-up)
 
 ---
 
-### **LYTT — Lead Data Scientist → Team Manager**  
+### **LYTT — Lead Data Scientist - Team Manager**  
 *London, UK | Jan 2020 – May 2022*  
 AI platform for acoustic monitoring in energy and utilities
 
