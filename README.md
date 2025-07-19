@@ -5,7 +5,7 @@
 
 ---
 
-## Executive Summary
+## Summary
 
 AI/ML leader with 10+ years of experience across startups, scale-ups, and academia—driving the strategy, development, and deployment of production-grade AI systems. Expert in speech processing, NLP, and acoustic analytics with a proven track record of team leadership, business impact, and patentable innovation. Skilled in aligning AI research with product and growth strategies, managing AI costs at scale, and deploying secure, customer-facing ML services. Passionate about building high-performing teams and delivering measurable ROI through ethical and scalable AI solutions.
 
