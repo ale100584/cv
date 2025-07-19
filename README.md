@@ -5,24 +5,24 @@
 
 ---
 
-## 🔹 Executive Summary
+## Executive Summary
 
 AI/ML leader with 10+ years of experience across startups, scale-ups, and academia—driving the strategy, development, and deployment of production-grade AI systems. Expert in speech processing, NLP, and acoustic analytics with a proven track record of team leadership, business impact, and patentable innovation. Skilled in aligning AI research with product and growth strategies, managing AI costs at scale, and deploying secure, customer-facing ML services. Passionate about building high-performing teams and delivering measurable ROI through ethical and scalable AI solutions.
 
 ---
 
-## 🔹 Key Achievements
+## Key Achievements
 
-- 💸 Saved **£400K/year** by building an in-house ASR engine at Trint  
-- 💰 Secured a **£500K Innovate UK grant** for multilingual NLP research  
-- 👥 Scaled data science teams and led AI delivery across 3 companies  
-- 📊 Delivered AI products used by enterprise clients in SaaS and Energy sectors  
-- 📜 Filed multiple patents in ASR and acoustic signal analytics  
-- 🧠 Built Trint AI Assistant, speaker recognition, and summarisation systems  
+- Saved **£400K/year** by building an in-house ASR engine at Trint  
+- Secured a **£500K Innovate UK grant** for multilingual NLP research  
+- Scaled data science teams and led AI delivery across 3 companies  
+- Delivered AI products used by enterprise clients in SaaS and Energy sectors  
+- Filed multiple patents in ASR and acoustic signal analytics  
+- Built Trint AI Assistant, speaker recognition, and summarisation systems  
 
 ---
 
-## 🔹 Professional Experience
+## Professional Experience
 
 ### **Trint — Lead Data Scientist / AI Team Manager**  
 *London, UK | May 2022 – Present*  
@@ -94,7 +94,7 @@ Postdoctoral Fellow, Ph.D. Researcher, and Engineer
 
 ---
 
-## 🔹 Education
+## Education
 
 **Ph.D. in Computational Intelligence**  
 *University of Genova, Italy | 2015*  
@@ -108,7 +108,7 @@ Thesis: *Audio Signal Processing for Context-Aware Applications*
 
 ---
 
-## 🔹 Patents & Publications
+## Patents & Publications
 
 **Patents (Pending)**  
 - *Real-time multi-language transcription with collaborative editing* (Trint)  
@@ -121,7 +121,7 @@ Thesis: *Audio Signal Processing for Context-Aware Applications*
 - Full list available on [Google Scholar](https://scholar.google.com/citations?user=H0NyvOIAAAAJ&hl=en&oi=ao)
 ---
 
-## 🔹 Technical & Platform Expertise
+## Technical & Platform Expertise
 
 **AI/ML:** PyTorch, Hugging Face Transformers, TensorFlow, Scikit-learn, LangChain  
 **Languages:** Python (expert), MATLAB, Bash  
@@ -132,10 +132,10 @@ Thesis: *Audio Signal Processing for Context-Aware Applications*
 
 ---
 
-## 🔹 Thought Leadership
+## Thought Leadership
 
 - Published blog: *Deploying AI Without Compromising Security* (Trint)  
-- Speaker & author in ML/AI webinars and industry forums (LYTT, ADIPEC, SPWLA)  
+- Speaker & author in ML/AI webinars and industry forums (LYTT - ADIPEC, SPWLA)  
 - Frequent contributor to patent and R&D strategy discussions across orgs
 
 ---
