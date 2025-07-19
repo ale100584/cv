@@ -88,7 +88,7 @@ Voice security and fraud detection SaaS platform
 *Genova, Italy | 2011 – 2016*  
 Postdoctoral Fellow, Ph.D. Researcher, and Engineer
 
-- Led research on acoustic signal processing and ultrasound-based applications  
+- Owned research projects on acoustic signal processing and ultrasound-based applications  
 - Collaborated with Telecom Italia and SMEs on IoT and smart sensing projects  
 - Published 10+ papers in IEEE journals and international conferences  
 
