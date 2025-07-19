@@ -14,7 +14,7 @@ AI/ML leader with 10+ years of experience across startups, scale-ups, and academ
 ## Key Achievements
 
 - Saved **£400K/year** by building an in-house ASR engine at Trint  
-- Secured a **£500K Innovate UK grant** for multilingual NLP research  
+- Secured a **£500K Innovate UK grant** for multilingual ASR research  
 - Scaled data science teams and led AI delivery across 3 companies  
 - Delivered AI products used by enterprise clients in SaaS and Energy sectors  
 - Filed multiple patents in ASR and acoustic signal analytics  
