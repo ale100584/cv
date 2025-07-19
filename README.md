@@ -47,7 +47,7 @@ AI-powered transcription and content platform (VC-backed scale-up)
 
 ### **LYTT — Lead Data Scientist - Team Manager**  
 *London, UK | Jan 2020 – May 2022*  
-AI platform for acoustic monitoring in energy and utilities
+Cloud-based platform for fiber optic sensing data analysis in energy and utilities (BP funded start-up)
 
 - Promoted from IC to team lead; scaled team from 1 to 4 data scientists  
 - Led ML algorithm development using **Distributed Fiber Optic Sensing (DFOS)** data  
@@ -62,7 +62,7 @@ AI platform for acoustic monitoring in energy and utilities
 
 ### **Pindrop — Research Scientist**  
 *London, UK | Feb 2016 – Sep 2019*  
-Voice security and fraud detection SaaS platform
+Voice security and fraud detection platform
 
 - Developed audio-based anti-fraud algorithms (e.g., replay attack detection)  
 - Created and maintained core internal libraries for acoustic signal processing  
